@@ -3,6 +3,7 @@
 # ==========================================================
 
 # --- NHOM 1: GAME ONLINE & TIN TUC GAME ---
+0.0.0.0 vnggames.com
 0.0.0.0 gamevui.vn 
 0.0.0.0 www.gamevui.vn 
 0.0.0.0 game24h.vn 
