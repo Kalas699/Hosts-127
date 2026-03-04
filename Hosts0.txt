@@ -1,0 +1,433 @@
+# ==========================================================
+# FILE HOSTS DA LOC TRUNG LAP
+# ==========================================================
+
+# --- NHOM 1: GAME ONLINE & TIN TUC GAME ---
+0.0.0.0 gamevui.vn 
+0.0.0.0 www.gamevui.vn 
+0.0.0.0 game24h.vn 
+0.0.0.0 www.game24h.vn 
+0.0.0.0 y8.com 
+0.0.0.0 www.y8.com 
+0.0.0.0 poki.com 
+0.0.0.0 www.poki.com 
+0.0.0.0 armor-games.com 
+0.0.0.0 www.armor-games.com 
+0.0.0.0 armorgames.com 
+0.0.0.0 miniclip.com 
+0.0.0.0 www.miniclip.com 
+0.0.0.0 vtcgame.vn 
+0.0.0.0 www.vtcgame.vn 
+0.0.0.0 gamek.vn 
+0.0.0.0 www.gamek.vn 
+0.0.0.0 trochoi.net 
+0.0.0.0 www.trochoi.net 
+0.0.0.0 gameonline.com 
+0.0.0.0 www.gameonline.com 
+0.0.0.0 zingplay.com 
+0.0.0.0 www.zingplay.com 
+0.0.0.0 crazygames.com 
+0.0.0.0 www.crazygames.com 
+0.0.0.0 friv.com 
+0.0.0.0 www.friv.com 
+0.0.0.0 coolmathgames.com 
+0.0.0.0 www.coolmathgames.com 
+0.0.0.0 addictinggames.com 
+0.0.0.0 www.addictinggames.com 
+0.0.0.0 kongregate.com 
+0.0.0.0 www.kongregate.com 
+0.0.0.0 newgrounds.com 
+0.0.0.0 www.newgrounds.com 
+0.0.0.0 itch.io 
+0.0.0.0 www.itch.io 
+0.0.0.0 playhop.com 
+0.0.0.0 www.playhop.com 
+0.0.0.0 agame.com 
+0.0.0.0 www.agame.com 
+0.0.0.0 lagged.com 
+0.0.0.0 www.lagged.com 
+0.0.0.0 ugame.com 
+0.0.0.0 kizi.com 
+0.0.0.0 silvergames.com 
+0.0.0.0 bgame.vn 
+0.0.0.0 gamevui24h.org 
+0.0.0.0 1001games.com 
+0.0.0.0 gogy.com 
+0.0.0.0 plays.org 
+0.0.0.0 24h.com.vn 
+0.0.0.0 gameyey.com 
+0.0.0.0 gamevh.net 
+0.0.0.0 gamevui.com 
+0.0.0.0 socvui.com 
+0.0.0.0 flashgames.com 
+0.0.0.0 twitch.tv 
+0.0.0.0 gamefront.com 
+0.0.0.0 gamepressure.com 
+0.0.0.0 bigfishgames.com 
+0.0.0.0 pogo.com 
+0.0.0.0 arcadeprehacked.com 
+0.0.0.0 games.com 
+0.0.0.0 arkadium.com 
+0.0.0.0 gamehouse.com 
+0.0.0.0 jayisgames.com 
+0.0.0.0 gameflare.com 
+0.0.0.0 gameshero.com 
+0.0.0.0 yaksgames.com 
+0.0.0.0 titotu.io 
+0.0.0.0 iogames.space 
+0.0.0.0 slither.io 
+0.0.0.0 agar.io 
+0.0.0.0 diep.io 
+0.0.0.0 hole.io 
+0.0.0.0 paper.io 
+0.0.0.0 krunker.io 
+0.0.0.0 skribbl.io 
+0.0.0.0 shellshock.io 
+0.0.0.0 surviv.io 
+0.0.0.0 zombs.io 
+0.0.0.0 moomoo.io 
+0.0.0.0 ev.io 
+0.0.0.0 smashkarts.io 
+0.0.0.0 gamesgames.com 
+0.0.0.0 mousebreaker.com 
+0.0.0.0 primarygames.com 
+0.0.0.0 girlsgogames.com 
+0.0.0.0 funnygames.org 
+0.0.0.0 a10.com 
+0.0.0.0 snokido.com 
+0.0.0.0 gamepix.com 
+0.0.0.0 gamespot.com 
+0.0.0.0 ign.com 
+0.0.0.0 kotaku.com 
+0.0.0.0 pcgamer.com 
+0.0.0.0 rockpapershotgun.com 
+0.0.0.0 eurogamer.net 
+0.0.0.0 gamesradar.com 
+0.0.0.0 polygon.com 
+0.0.0.0 shacknews.com [cite: 2]
+0.0.0.0 gameinformer.com [cite: 2]
+0.0.0.0 giantbomb.com [cite: 2]
+0.0.0.0 destructoid.com [cite: 2]
+0.0.0.0 gameranx.com [cite: 2]
+0.0.0.0 mmo-champion.com [cite: 2]
+0.0.0.0 wowhead.com [cite: 2]
+0.0.0.0 nexusmods.com [cite: 2]
+0.0.0.0 moddb.com [cite: 2]
+0.0.0.0 gamefaqs.gamespot.com [cite: 2]
+0.0.0.0 neoseeker.com [cite: 2]
+0.0.0.0 cheatcc.com [cite: 2]
+0.0.0.0 supercheats.com [cite: 2]
+0.0.0.0 gamezebo.com [cite: 2]
+0.0.0.0 toucharcade.com [cite: 2]
+0.0.0.0 pocketgamer.com [cite: 2]
+0.0.0.0 nintendolife.com [cite: 2]
+0.0.0.0 pushsquare.com [cite: 2]
+0.0.0.0 purexbox.com [cite: 2]
+0.0.0.0 vg247.com [cite: 2]
+0.0.0.0 gematsu.com [cite: 2]
+0.0.0.0 siliconera.com [cite: 2]
+0.0.0.0 dualshockers.com [cite: 2]
+0.0.0.0 gamesindustry.biz [cite: 2]
+
+# --- NHOM 2: ROBLOX & MINECRAFT ---
+0.0.0.0 roblox.com 
+0.0.0.0 www.roblox.com 
+0.0.0.0 roblox.vnggames.com 
+0.0.0.0 www.roblox.vnggames.com 
+0.0.0.0 web.roblox.com [cite: 2]
+0.0.0.0 api.roblox.com [cite: 2]
+0.0.0.0 roblox.education [cite: 2]
+0.0.0.0 corp.roblox.com [cite: 2]
+0.0.0.0 devforum.roblox.com [cite: 2]
+0.0.0.0 wiki.roblox.com [cite: 2]
+0.0.0.0 roblox-api.com [cite: 2]
+0.0.0.0 robloxden.com [cite: 2]
+0.0.0.0 roblox.com.vn [cite: 2]
+0.0.0.0 robloxhack.com [cite: 2]
+0.0.0.0 roblox-games.com [cite: 2]
+0.0.0.0 minecraft.net [cite: 2]
+0.0.0.0 www.minecraft.net [cite: 2]
+0.0.0.0 classic.minecraft.net 
+0.0.0.0 www.classic.minecraft.net 
+0.0.0.0 feedback.minecraft.net [cite: 2]
+0.0.0.0 help.minecraft.net [cite: 2]
+0.0.0.0 education.minecraft.net [cite: 2]
+0.0.0.0 minecraft.net.vn [cite: 2]
+0.0.0.0 minecraft.online [cite: 2]
+0.0.0.0 planetminecraft.com [cite: 2]
+0.0.0.0 minecraftmaps.com [cite: 2]
+0.0.0.0 minecraftforge.net [cite: 2]
+0.0.0.0 minecraft-server-list.com [cite: 2]
+0.0.0.0 minecraftskinstealer.com [cite: 2]
+0.0.0.0 minecraft-mp.com [cite: 2]
+0.0.0.0 minecraft-servers.net [cite: 2]
+0.0.0.0 minecraftlist.org [cite: 2]
+0.0.0.0 minecraft-index.com [cite: 3]
+0.0.0.0 top-minecraft-servers.org [cite: 3]
+0.0.0.0 minecraft-server.net [cite: 3]
+0.0.0.0 minecraft-server.com [cite: 3]
+0.0.0.0 minecraft-tweak.com [cite: 3]
+0.0.0.0 now.gg [cite: 2]
+0.0.0.0 rbx.land [cite: 2]
+0.0.0.0 rbx.rocks [cite: 2]
+0.0.0.0 blox.land [cite: 2]
+0.0.0.0 curseforge.com [cite: 2]
+0.0.0.0 namemc.com [cite: 2]
+0.0.0.0 tlauncher.org [cite: 2]
+0.0.0.0 skindex.pro [cite: 2]
+0.0.0.0 minecraftskins.com [cite: 2]
+0.0.0.0 hypixel.net [cite: 2]
+0.0.0.0 2b2t.org [cite: 2]
+0.0.0.0 bloxflip.com [cite: 2]
+0.0.0.0 vesteria.org [cite: 2]
+0.0.0.0 mcdlhub.com [cite: 2]
+0.0.0.0 servers-minecraft.net [cite: 2]
+0.0.0.0 topg.org [cite: 2]
+0.0.0.0 mineplex.com [cite: 2]
+0.0.0.0 wynncraft.com [cite: 2]
+0.0.0.0 labymod.net [cite: 2]
+0.0.0.0 badlion.net [cite: 2]
+0.0.0.0 lunarclient.com [cite: 2]
+0.0.0.0 optifine.net [cite: 2]
+0.0.0.0 spigotmc.org [cite: 2]
+0.0.0.0 bukkit.org [cite: 2]
+0.0.0.0 papermc.io [cite: 2]
+0.0.0.0 essential.gg [cite: 2]
+0.0.0.0 modrinth.com [cite: 2]
+0.0.0.0 rbx.tools [cite: 2]
+0.0.0.0 rbx.blue [cite: 2]
+0.0.0.0 blox.link [cite: 2]
+0.0.0.0 rolimons.com [cite: 2]
+0.0.0.0 rblx.city [cite: 2]
+0.0.0.0 rblx.trade [cite: 2]
+0.0.0.0 heromc.net [cite: 2]
+0.0.0.0 aemine.vn [cite: 2]
+0.0.0.0 minefc.com [cite: 2]
+0.0.0.0 vietmine.com [cite: 2]
+0.0.0.0 rbx.best [cite: 2]
+0.0.0.0 rbx.gg [cite: 2]
+0.0.0.0 bloxburg.news [cite: 2]
+0.0.0.0 adoptme.com [cite: 2]
+0.0.0.0 bee-swarm.com [cite: 2]
+0.0.0.0 bloxfruits.com [cite: 2]
+0.0.0.0 pet-simulator.com [cite: 2]
+0.0.0.0 rbx.live [cite: 2]
+0.0.0.0 free-robux.com [cite: 2]
+0.0.0.0 robux-generator.com [cite: 2]
+0.0.0.0 minestatus.net [cite: 2]
+0.0.0.0 minefort.com [cite: 3]
+0.0.0.0 aternos.org [cite: 3]
+0.0.0.0 scalacube.com [cite: 3]
+0.0.0.0 shockbyte.com [cite: 3]
+0.0.0.0 apexminecrafthosting.com [cite: 3]
+0.0.0.0 bisecthosting.com [cite: 3]
+0.0.0.0 pebblehost.com [cite: 3]
+0.0.0.0 ggservers.com [cite: 3]
+0.0.0.0 mc-prohosting.com [cite: 3]
+0.0.0.0 nitrado.net [cite: 3]
+0.0.0.0 server.pro [cite: 3]
+0.0.0.0 vanilla-tweaks.com [cite: 3]
+0.0.0.0 chunkbase.com [cite: 3]
+0.0.0.0 mc-heads.net [cite: 3]
+0.0.0.0 namemc.org [cite: 3]
+0.0.0.0 skinstealer.com [cite: 3]
+0.0.0.0 rbxcloud.com [cite: 3]
+
+# --- NHOM 3: TRUYEN TRANH & TRUYEN CHU ---
+0.0.0.0 nettruyenco.vn [cite: 3]
+0.0.0.0 nettruyennew.com [cite: 3]
+0.0.0.0 nettruyentv.com [cite: 3]
+0.0.0.0 nettruyenup.com [cite: 3]
+0.0.0.0 nettruyenmax.com [cite: 3]
+0.0.0.0 nettruyen.me 
+0.0.0.0 www.nettruyen.me 
+0.0.0.0 nettruyen.plus 
+0.0.0.0 www.nettruyen.plus 
+0.0.0.0 nettruyen.com.vn [cite: 4]
+0.0.0.0 nhattruyenmax.com [cite: 3]
+0.0.0.0 nhattruyenz.com [cite: 3]
+#0.0.0.0 nhattruyen.com [cite: 4]
+0.0.0.0 saytruyen.tv [cite: 3]
+0.0.0.0 saytruyen.net [cite: 3]
+0.0.0.0 cuutruyen.net [cite: 3]
+0.0.0.0 blogtruyen.vn [cite: 3]
+0.0.0.0 blogtruyen.com [cite: 3]
+0.0.0.0 mangadex.org [cite: 3]
+0.0.0.0 mangakakalot.com [cite: 3]
+0.0.0.0 truyenqqvn.com [cite: 3]
+0.0.0.0 truyenqqpro.com [cite: 3]
+0.0.0.0 truyenqq.com 
+0.0.0.0 www.truyenqq.com 
+0.0.0.0 hamtruyen.vn [cite: 3]
+0.0.0.0 hamtruyen.com [cite: 4]
+0.0.0.0 vcomi.co [cite: 3]
+0.0.0.0 vcomi.net [cite: 3]
+0.0.0.0 truyentranhtuan.com [cite: 3]
+0.0.0.0 truyentranhtuan.vn [cite: 4]
+0.0.0.0 truyentranhonline.vn [cite: 3]
+0.0.0.0 otaman.net [cite: 3]
+0.0.0.0 pops.vn [cite: 1, 3]
+0.0.0.0 www.pops.vn 
+0.0.0.0 lxmanga.com [cite: 3]
+0.0.0.0 mangabat.com [cite: 3]
+0.0.0.0 mangabat.net [cite: 4]
+0.0.0.0 readmng.com [cite: 3]
+0.0.0.0 truyengihot.com [cite: 3]
+0.0.0.0 lkdtt.com [cite: 3]
+0.0.0.0 cmanga.com [cite: 3]
+0.0.0.0 cmangatop.com [cite: 3]
+0.0.0.0 mi2manga.com [cite: 3]
+0.0.0.0 baotangtruyen.com [cite: 3]
+0.0.0.0 thichtruyen.vn [cite: 3]
+0.0.0.0 thichtruyen.com [cite: 4]
+0.0.0.0 thichtruyentranh.com [cite: 1, 3]
+0.0.0.0 www.thichtruyentranh.com 
+0.0.0.0 doctruyen3q.com [cite: 3]
+0.0.0.0 truyentranhhl.com [cite: 3]
+0.0.0.0 kuaikanmanhua.com [cite: 3]
+0.0.0.0 webtoon.com [cite: 1, 3]
+0.0.0.0 www.webtoon.com 
+0.0.0.0 mangaplus.shueisha.co.jp [cite: 3]
+0.0.0.0 mangasee123.com [cite: 3]
+0.0.0.0 mangafox.la [cite: 3]
+0.0.0.0 mangahere.cc [cite: 3]
+0.0.0.0 kissmanga.com [cite: 3]
+0.0.0.0 mangapark.net [cite: 3]
+0.0.0.0 mangago.me [cite: 3]
+0.0.0.0 tappytoon.com [cite: 3]
+0.0.0.0 lezhin.com [cite: 3]
+0.0.0.0 toomics.com [cite: 3]
+0.0.0.0 mangatoon.mobi [cite: 3]
+0.0.0.0 bili-manga.com [cite: 3]
+0.0.0.0 wecomics.com [cite: 3]
+0.0.0.0 ddtruyen.com [cite: 3]
+0.0.0.0 truyenvn.com [cite: 3]
+0.0.0.0 truyenvn.vip [cite: 3]
+0.0.0.0 dammetruyen.com [cite: 3]
+0.0.0.0 truyenfull.vn [cite: 1, 3]
+0.0.0.0 www.truyenfull.vn 
+0.0.0.0 sstruyen.com [cite: 3]
+0.0.0.0 TruyenYY.com [cite: 3]
+0.0.0.0 weebtoon.com [cite: 3]
+0.0.0.0 mangarock.com [cite: 3]
+0.0.0.0 TruyenChon.com [cite: 3]
+0.0.0.0 truyensieuhay.com [cite: 3]
+0.0.0.0 comicvn.net [cite: 3]
+0.0.0.0 truyentranh8.net [cite: 3]
+0.0.0.0 vechai.info [cite: 4]
+0.0.0.0 otakufun.net [cite: 4]
+0.0.0.0 truyentranhmoi.biz [cite: 4]
+0.0.0.0 uptruyen.com [cite: 4]
+0.0.0.0 truyentranhvang.com [cite: 4]
+0.0.0.0 beeng.net [cite: 4]
+0.0.0.0 truyenhay24h.com [cite: 4]
+0.0.0.0 thienhatruyen.com [cite: 4]
+0.0.0.0 hoviencomix.com [cite: 4]
+0.0.0.0 truyenhot.net [cite: 4]
+0.0.0.0 truyen tranh-online.com [cite: 4]
+0.0.0.0 goccay.vn [cite: 4]
+0.0.0.0 luhanhthuyet.com [cite: 4]
+0.0.0.0 teamlanhlung.com [cite: 4]
+0.0.0.0 truyenvip.net [cite: 4]
+0.0.0.0 truyenbanh.com [cite: 4]
+0.0.0.0 truyentop.com [cite: 4]
+0.0.0.0 mangareader.net [cite: 4]
+0.0.0.0 mangatime24.com [cite: 4]
+0.0.0.0 truyentranhhot.net [cite: 4]
+0.0.0.0 truyenmoi.com [cite: 4]
+0.0.0.0 vlogtruyen.net [cite: 4]
+0.0.0.0 mangahua.com [cite: 4]
+0.0.0.0 manhuascan.com [cite: 4]
+0.0.0.0 1stkissmanga.io [cite: 4]
+0.0.0.0 zinmanga.com [cite: 4]
+0.0.0.0 mangatx.com [cite: 4]
+0.0.0.0 reaperscans.com [cite: 4]
+0.0.0.0 asurascans.com [cite: 4]
+0.0.0.0 a3manga.io 
+0.0.0.0 www.a3manga.io 
+0.0.0.0 truyentranhtam.com 
+0.0.0.0 www.truyentranhtam.com 
+0.0.0.0 kenhsinhvien.vn 
+0.0.0.0 www.kenhsinhvien.vn 
+0.0.0.0 ztruyen.io.vn 
+0.0.0.0 www.ztruyen.io.vn 
+0.0.0.0 doctruyenngan.com 
+0.0.0.0 www.doctruyenngan.com 
+0.0.0.0 dtruyen.com 
+0.0.0.0 www.dtruyen.com 
+0.0.0.0 wattpad.com 
+0.0.0.0 www.wattpad.com 
+
+# --- NHOM 4: CAC TRANG KHAC ---
+0.0.0.0 lichsuichien.net 
+0.0.0.0 www.lichsuichien.net 
+0.0.0.0 y3.com.vn 
+0.0.0.0 www.y3.com.vn 
+0.0.0.0 gamehay.vn 
+0.0.0.0 www.gamehay.vn 
+0.0.0.0 igame.vn 
+0.0.0.0 www.igame.vn 
+0.0.0.0 toandien.net 
+0.0.0.0 www.toandien.net 
+0.0.0.0 bigfun.vn 
+0.0.0.0 www.bigfun.vn 
+0.0.0.0 sun.vn 
+0.0.0.0 www.sun.vn 
+0.0.0.0 sunwin.win 
+0.0.0.0 www.sunwin.win 
+0.0.0.0 go88.vin 
+0.0.0.0 www.go88.vin 
+0.0.0.0 rikvip.app 
+0.0.0.0 www.rikvip.app 
+0.0.0.0 789club.com 
+0.0.0.0 www.789club.com 
+0.0.0.0 hitclub.vip 
+0.0.0.0 www.hitclub.vip 
+0.0.0.0 ku777.net 
+0.0.0.0 www.ku777.net 
+0.0.0.0 nohu.club 
+0.0.0.0 www.nohu.club 
+0.0.0.0 locvip.club 
+0.0.0.0 www.locvip.club 
+0.0.0.0 taigamevui.com 
+0.0.0.0 www.taigamevui.com 
+0.0.0.0 gamevui.com.vn 
+0.0.0.0 www.gamevui.com.vn 
+0.0.0.0 gameonlinehay.net 
+0.0.0.0 www.gameonlinehay.net 
+0.0.0.0 webgamehay.com 
+0.0.0.0 www.webgamehay.com 
+0.0.0.0 shockwave.com 
+0.0.0.0 www.shockwave.com 
+0.0.0.0 neopets.com 
+0.0.0.0 www.neopets.com 
+0.0.0.0 clubpenguin.com 
+0.0.0.0 www.clubpenguin.com 
+0.0.0.0 habbo.com 
+0.0.0.0 www.habbo.com 
+0.0.0.0 runescape.com 
+0.0.0.0 www.runescape.com 
+0.0.0.0 adventurequest.com 
+0.0.0.0 www.adventurequest.com 
+0.0.0.0 gaiaonline.com 
+0.0.0.0 www.gaiaonline.com 
+0.0.0.0 danballpowpows.com 
+0.0.0.0 www.danballpowpows.com 
+0.0.0.0 playstation.com 
+0.0.0.0 www.playstation.com 
+0.0.0.0 xbox.com 
+0.0.0.0 www.xbox.com 
+0.0.0.0 nintendo.com 
+0.0.0.0 www.nintendo.com 
+0.0.0.0 ea.com 
+0.0.0.0 www.ea.com 
+0.0.0.0 onlinegames.io 
+0.0.0.0 www.onlinegames.io 
+0.0.0.0 mcraft.fun 
+0.0.0.0 www.mcraft.fun 
+0.0.0.0 mcraft.net 
+0.0.0.0 www.mcraft.net 
+0.0.0.0 bloxd.io 
+0.0.0.0 www.bloxd.io 
+0.0.0.0 robloxvn.com 
+0.0.0.0 www.robloxvn.com
