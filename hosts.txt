@@ -1,0 +1,433 @@
+# ==========================================================
+# FILE HOSTS DA LOC TRUNG LAP
+# ==========================================================
+
+# --- NHOM 1: GAME ONLINE & TIN TUC GAME ---
+127.0.0.1 gamevui.vn 
+127.0.0.1 www.gamevui.vn 
+127.0.0.1 game24h.vn 
+127.0.0.1 www.game24h.vn 
+127.0.0.1 y8.com 
+127.0.0.1 www.y8.com 
+127.0.0.1 poki.com 
+127.0.0.1 www.poki.com 
+127.0.0.1 armor-games.com 
+127.0.0.1 www.armor-games.com 
+127.0.0.1 armorgames.com 
+127.0.0.1 miniclip.com 
+127.0.0.1 www.miniclip.com 
+127.0.0.1 vtcgame.vn 
+127.0.0.1 www.vtcgame.vn 
+127.0.0.1 gamek.vn 
+127.0.0.1 www.gamek.vn 
+127.0.0.1 trochoi.net 
+127.0.0.1 www.trochoi.net 
+127.0.0.1 gameonline.com 
+127.0.0.1 www.gameonline.com 
+127.0.0.1 zingplay.com 
+127.0.0.1 www.zingplay.com 
+127.0.0.1 crazygames.com 
+127.0.0.1 www.crazygames.com 
+127.0.0.1 friv.com 
+127.0.0.1 www.friv.com 
+127.0.0.1 coolmathgames.com 
+127.0.0.1 www.coolmathgames.com 
+127.0.0.1 addictinggames.com 
+127.0.0.1 www.addictinggames.com 
+127.0.0.1 kongregate.com 
+127.0.0.1 www.kongregate.com 
+127.0.0.1 newgrounds.com 
+127.0.0.1 www.newgrounds.com 
+127.0.0.1 itch.io 
+127.0.0.1 www.itch.io 
+127.0.0.1 playhop.com 
+127.0.0.1 www.playhop.com 
+127.0.0.1 agame.com 
+127.0.0.1 www.agame.com 
+127.0.0.1 lagged.com 
+127.0.0.1 www.lagged.com 
+127.0.0.1 ugame.com 
+127.0.0.1 kizi.com 
+127.0.0.1 silvergames.com 
+127.0.0.1 bgame.vn 
+127.0.0.1 gamevui24h.org 
+127.0.0.1 1001games.com 
+127.0.0.1 gogy.com 
+127.0.0.1 plays.org 
+127.0.0.1 24h.com.vn 
+127.0.0.1 gameyey.com 
+127.0.0.1 gamevh.net 
+127.0.0.1 gamevui.com 
+127.0.0.1 socvui.com 
+127.0.0.1 flashgames.com 
+127.0.0.1 twitch.tv 
+127.0.0.1 gamefront.com 
+127.0.0.1 gamepressure.com 
+127.0.0.1 bigfishgames.com 
+127.0.0.1 pogo.com 
+127.0.0.1 arcadeprehacked.com 
+127.0.0.1 games.com 
+127.0.0.1 arkadium.com 
+127.0.0.1 gamehouse.com 
+127.0.0.1 jayisgames.com 
+127.0.0.1 gameflare.com 
+127.0.0.1 gameshero.com 
+127.0.0.1 yaksgames.com 
+127.0.0.1 titotu.io 
+127.0.0.1 iogames.space 
+127.0.0.1 slither.io 
+127.0.0.1 agar.io 
+127.0.0.1 diep.io 
+127.0.0.1 hole.io 
+127.0.0.1 paper.io 
+127.0.0.1 krunker.io 
+127.0.0.1 skribbl.io 
+127.0.0.1 shellshock.io 
+127.0.0.1 surviv.io 
+127.0.0.1 zombs.io 
+127.0.0.1 moomoo.io 
+127.0.0.1 ev.io 
+127.0.0.1 smashkarts.io 
+127.0.0.1 gamesgames.com 
+127.0.0.1 mousebreaker.com 
+127.0.0.1 primarygames.com 
+127.0.0.1 girlsgogames.com 
+127.0.0.1 funnygames.org 
+127.0.0.1 a10.com 
+127.0.0.1 snokido.com 
+127.0.0.1 gamepix.com 
+127.0.0.1 gamespot.com 
+127.0.0.1 ign.com 
+127.0.0.1 kotaku.com 
+127.0.0.1 pcgamer.com 
+127.0.0.1 rockpapershotgun.com 
+127.0.0.1 eurogamer.net 
+127.0.0.1 gamesradar.com 
+127.0.0.1 polygon.com 
+127.0.0.1 shacknews.com [cite: 2]
+127.0.0.1 gameinformer.com [cite: 2]
+127.0.0.1 giantbomb.com [cite: 2]
+127.0.0.1 destructoid.com [cite: 2]
+127.0.0.1 gameranx.com [cite: 2]
+127.0.0.1 mmo-champion.com [cite: 2]
+127.0.0.1 wowhead.com [cite: 2]
+127.0.0.1 nexusmods.com [cite: 2]
+127.0.0.1 moddb.com [cite: 2]
+127.0.0.1 gamefaqs.gamespot.com [cite: 2]
+127.0.0.1 neoseeker.com [cite: 2]
+127.0.0.1 cheatcc.com [cite: 2]
+127.0.0.1 supercheats.com [cite: 2]
+127.0.0.1 gamezebo.com [cite: 2]
+127.0.0.1 toucharcade.com [cite: 2]
+127.0.0.1 pocketgamer.com [cite: 2]
+127.0.0.1 nintendolife.com [cite: 2]
+127.0.0.1 pushsquare.com [cite: 2]
+127.0.0.1 purexbox.com [cite: 2]
+127.0.0.1 vg247.com [cite: 2]
+127.0.0.1 gematsu.com [cite: 2]
+127.0.0.1 siliconera.com [cite: 2]
+127.0.0.1 dualshockers.com [cite: 2]
+127.0.0.1 gamesindustry.biz [cite: 2]
+
+# --- NHOM 2: ROBLOX & MINECRAFT ---
+127.0.0.1 roblox.com 
+127.0.0.1 www.roblox.com 
+127.0.0.1 roblox.vnggames.com 
+127.0.0.1 www.roblox.vnggames.com 
+127.0.0.1 web.roblox.com [cite: 2]
+127.0.0.1 api.roblox.com [cite: 2]
+127.0.0.1 roblox.education [cite: 2]
+127.0.0.1 corp.roblox.com [cite: 2]
+127.0.0.1 devforum.roblox.com [cite: 2]
+127.0.0.1 wiki.roblox.com [cite: 2]
+127.0.0.1 roblox-api.com [cite: 2]
+127.0.0.1 robloxden.com [cite: 2]
+127.0.0.1 roblox.com.vn [cite: 2]
+127.0.0.1 robloxhack.com [cite: 2]
+127.0.0.1 roblox-games.com [cite: 2]
+127.0.0.1 minecraft.net [cite: 2]
+127.0.0.1 www.minecraft.net [cite: 2]
+127.0.0.1 classic.minecraft.net 
+127.0.0.1 www.classic.minecraft.net 
+127.0.0.1 feedback.minecraft.net [cite: 2]
+127.0.0.1 help.minecraft.net [cite: 2]
+127.0.0.1 education.minecraft.net [cite: 2]
+127.0.0.1 minecraft.net.vn [cite: 2]
+127.0.0.1 minecraft.online [cite: 2]
+127.0.0.1 planetminecraft.com [cite: 2]
+127.0.0.1 minecraftmaps.com [cite: 2]
+127.0.0.1 minecraftforge.net [cite: 2]
+127.0.0.1 minecraft-server-list.com [cite: 2]
+127.0.0.1 minecraftskinstealer.com [cite: 2]
+127.0.0.1 minecraft-mp.com [cite: 2]
+127.0.0.1 minecraft-servers.net [cite: 2]
+127.0.0.1 minecraftlist.org [cite: 2]
+127.0.0.1 minecraft-index.com [cite: 3]
+127.0.0.1 top-minecraft-servers.org [cite: 3]
+127.0.0.1 minecraft-server.net [cite: 3]
+127.0.0.1 minecraft-server.com [cite: 3]
+127.0.0.1 minecraft-tweak.com [cite: 3]
+127.0.0.1 now.gg [cite: 2]
+127.0.0.1 rbx.land [cite: 2]
+127.0.0.1 rbx.rocks [cite: 2]
+127.0.0.1 blox.land [cite: 2]
+127.0.0.1 curseforge.com [cite: 2]
+127.0.0.1 namemc.com [cite: 2]
+127.0.0.1 tlauncher.org [cite: 2]
+127.0.0.1 skindex.pro [cite: 2]
+127.0.0.1 minecraftskins.com [cite: 2]
+127.0.0.1 hypixel.net [cite: 2]
+127.0.0.1 2b2t.org [cite: 2]
+127.0.0.1 bloxflip.com [cite: 2]
+127.0.0.1 vesteria.org [cite: 2]
+127.0.0.1 mcdlhub.com [cite: 2]
+127.0.0.1 servers-minecraft.net [cite: 2]
+127.0.0.1 topg.org [cite: 2]
+127.0.0.1 mineplex.com [cite: 2]
+127.0.0.1 wynncraft.com [cite: 2]
+127.0.0.1 labymod.net [cite: 2]
+127.0.0.1 badlion.net [cite: 2]
+127.0.0.1 lunarclient.com [cite: 2]
+127.0.0.1 optifine.net [cite: 2]
+127.0.0.1 spigotmc.org [cite: 2]
+127.0.0.1 bukkit.org [cite: 2]
+127.0.0.1 papermc.io [cite: 2]
+127.0.0.1 essential.gg [cite: 2]
+127.0.0.1 modrinth.com [cite: 2]
+127.0.0.1 rbx.tools [cite: 2]
+127.0.0.1 rbx.blue [cite: 2]
+127.0.0.1 blox.link [cite: 2]
+127.0.0.1 rolimons.com [cite: 2]
+127.0.0.1 rblx.city [cite: 2]
+127.0.0.1 rblx.trade [cite: 2]
+127.0.0.1 heromc.net [cite: 2]
+127.0.0.1 aemine.vn [cite: 2]
+127.0.0.1 minefc.com [cite: 2]
+127.0.0.1 vietmine.com [cite: 2]
+127.0.0.1 rbx.best [cite: 2]
+127.0.0.1 rbx.gg [cite: 2]
+127.0.0.1 bloxburg.news [cite: 2]
+127.0.0.1 adoptme.com [cite: 2]
+127.0.0.1 bee-swarm.com [cite: 2]
+127.0.0.1 bloxfruits.com [cite: 2]
+127.0.0.1 pet-simulator.com [cite: 2]
+127.0.0.1 rbx.live [cite: 2]
+127.0.0.1 free-robux.com [cite: 2]
+127.0.0.1 robux-generator.com [cite: 2]
+127.0.0.1 minestatus.net [cite: 2]
+127.0.0.1 minefort.com [cite: 3]
+127.0.0.1 aternos.org [cite: 3]
+127.0.0.1 scalacube.com [cite: 3]
+127.0.0.1 shockbyte.com [cite: 3]
+127.0.0.1 apexminecrafthosting.com [cite: 3]
+127.0.0.1 bisecthosting.com [cite: 3]
+127.0.0.1 pebblehost.com [cite: 3]
+127.0.0.1 ggservers.com [cite: 3]
+127.0.0.1 mc-prohosting.com [cite: 3]
+127.0.0.1 nitrado.net [cite: 3]
+127.0.0.1 server.pro [cite: 3]
+127.0.0.1 vanilla-tweaks.com [cite: 3]
+127.0.0.1 chunkbase.com [cite: 3]
+127.0.0.1 mc-heads.net [cite: 3]
+127.0.0.1 namemc.org [cite: 3]
+127.0.0.1 skinstealer.com [cite: 3]
+127.0.0.1 rbxcloud.com [cite: 3]
+
+# --- NHOM 3: TRUYEN TRANH & TRUYEN CHU ---
+127.0.0.1 nettruyenco.vn [cite: 3]
+127.0.0.1 nettruyennew.com [cite: 3]
+127.0.0.1 nettruyentv.com [cite: 3]
+127.0.0.1 nettruyenup.com [cite: 3]
+127.0.0.1 nettruyenmax.com [cite: 3]
+127.0.0.1 nettruyen.me 
+127.0.0.1 www.nettruyen.me 
+127.0.0.1 nettruyen.plus 
+127.0.0.1 www.nettruyen.plus 
+127.0.0.1 nettruyen.com.vn [cite: 4]
+127.0.0.1 nhattruyenmax.com [cite: 3]
+127.0.0.1 nhattruyenz.com [cite: 3]
+#127.0.0.1 nhattruyen.com [cite: 4]
+127.0.0.1 saytruyen.tv [cite: 3]
+127.0.0.1 saytruyen.net [cite: 3]
+127.0.0.1 cuutruyen.net [cite: 3]
+127.0.0.1 blogtruyen.vn [cite: 3]
+127.0.0.1 blogtruyen.com [cite: 3]
+127.0.0.1 mangadex.org [cite: 3]
+127.0.0.1 mangakakalot.com [cite: 3]
+127.0.0.1 truyenqqvn.com [cite: 3]
+127.0.0.1 truyenqqpro.com [cite: 3]
+127.0.0.1 truyenqq.com 
+127.0.0.1 www.truyenqq.com 
+127.0.0.1 hamtruyen.vn [cite: 3]
+127.0.0.1 hamtruyen.com [cite: 4]
+127.0.0.1 vcomi.co [cite: 3]
+127.0.0.1 vcomi.net [cite: 3]
+127.0.0.1 truyentranhtuan.com [cite: 3]
+127.0.0.1 truyentranhtuan.vn [cite: 4]
+127.0.0.1 truyentranhonline.vn [cite: 3]
+127.0.0.1 otaman.net [cite: 3]
+127.0.0.1 pops.vn [cite: 1, 3]
+127.0.0.1 www.pops.vn 
+127.0.0.1 lxmanga.com [cite: 3]
+127.0.0.1 mangabat.com [cite: 3]
+127.0.0.1 mangabat.net [cite: 4]
+127.0.0.1 readmng.com [cite: 3]
+127.0.0.1 truyengihot.com [cite: 3]
+127.0.0.1 lkdtt.com [cite: 3]
+127.0.0.1 cmanga.com [cite: 3]
+127.0.0.1 cmangatop.com [cite: 3]
+127.0.0.1 mi2manga.com [cite: 3]
+127.0.0.1 baotangtruyen.com [cite: 3]
+127.0.0.1 thichtruyen.vn [cite: 3]
+127.0.0.1 thichtruyen.com [cite: 4]
+127.0.0.1 thichtruyentranh.com [cite: 1, 3]
+127.0.0.1 www.thichtruyentranh.com 
+127.0.0.1 doctruyen3q.com [cite: 3]
+127.0.0.1 truyentranhhl.com [cite: 3]
+127.0.0.1 kuaikanmanhua.com [cite: 3]
+127.0.0.1 webtoon.com [cite: 1, 3]
+127.0.0.1 www.webtoon.com 
+127.0.0.1 mangaplus.shueisha.co.jp [cite: 3]
+127.0.0.1 mangasee123.com [cite: 3]
+127.0.0.1 mangafox.la [cite: 3]
+127.0.0.1 mangahere.cc [cite: 3]
+127.0.0.1 kissmanga.com [cite: 3]
+127.0.0.1 mangapark.net [cite: 3]
+127.0.0.1 mangago.me [cite: 3]
+127.0.0.1 tappytoon.com [cite: 3]
+127.0.0.1 lezhin.com [cite: 3]
+127.0.0.1 toomics.com [cite: 3]
+127.0.0.1 mangatoon.mobi [cite: 3]
+127.0.0.1 bili-manga.com [cite: 3]
+127.0.0.1 wecomics.com [cite: 3]
+127.0.0.1 ddtruyen.com [cite: 3]
+127.0.0.1 truyenvn.com [cite: 3]
+127.0.0.1 truyenvn.vip [cite: 3]
+127.0.0.1 dammetruyen.com [cite: 3]
+127.0.0.1 truyenfull.vn [cite: 1, 3]
+127.0.0.1 www.truyenfull.vn 
+127.0.0.1 sstruyen.com [cite: 3]
+127.0.0.1 TruyenYY.com [cite: 3]
+127.0.0.1 weebtoon.com [cite: 3]
+127.0.0.1 mangarock.com [cite: 3]
+127.0.0.1 TruyenChon.com [cite: 3]
+127.0.0.1 truyensieuhay.com [cite: 3]
+127.0.0.1 comicvn.net [cite: 3]
+127.0.0.1 truyentranh8.net [cite: 3]
+127.0.0.1 vechai.info [cite: 4]
+127.0.0.1 otakufun.net [cite: 4]
+127.0.0.1 truyentranhmoi.biz [cite: 4]
+127.0.0.1 uptruyen.com [cite: 4]
+127.0.0.1 truyentranhvang.com [cite: 4]
+127.0.0.1 beeng.net [cite: 4]
+127.0.0.1 truyenhay24h.com [cite: 4]
+127.0.0.1 thienhatruyen.com [cite: 4]
+127.0.0.1 hoviencomix.com [cite: 4]
+127.0.0.1 truyenhot.net [cite: 4]
+127.0.0.1 truyen tranh-online.com [cite: 4]
+127.0.0.1 goccay.vn [cite: 4]
+127.0.0.1 luhanhthuyet.com [cite: 4]
+127.0.0.1 teamlanhlung.com [cite: 4]
+127.0.0.1 truyenvip.net [cite: 4]
+127.0.0.1 truyenbanh.com [cite: 4]
+127.0.0.1 truyentop.com [cite: 4]
+127.0.0.1 mangareader.net [cite: 4]
+127.0.0.1 mangatime24.com [cite: 4]
+127.0.0.1 truyentranhhot.net [cite: 4]
+127.0.0.1 truyenmoi.com [cite: 4]
+127.0.0.1 vlogtruyen.net [cite: 4]
+127.0.0.1 mangahua.com [cite: 4]
+127.0.0.1 manhuascan.com [cite: 4]
+127.0.0.1 1stkissmanga.io [cite: 4]
+127.0.0.1 zinmanga.com [cite: 4]
+127.0.0.1 mangatx.com [cite: 4]
+127.0.0.1 reaperscans.com [cite: 4]
+127.0.0.1 asurascans.com [cite: 4]
+127.0.0.1 a3manga.io 
+127.0.0.1 www.a3manga.io 
+127.0.0.1 truyentranhtam.com 
+127.0.0.1 www.truyentranhtam.com 
+127.0.0.1 kenhsinhvien.vn 
+127.0.0.1 www.kenhsinhvien.vn 
+127.0.0.1 ztruyen.io.vn 
+127.0.0.1 www.ztruyen.io.vn 
+127.0.0.1 doctruyenngan.com 
+127.0.0.1 www.doctruyenngan.com 
+127.0.0.1 dtruyen.com 
+127.0.0.1 www.dtruyen.com 
+127.0.0.1 wattpad.com 
+127.0.0.1 www.wattpad.com 
+
+# --- NHOM 4: CAC TRANG KHAC ---
+127.0.0.1 lichsuichien.net 
+127.0.0.1 www.lichsuichien.net 
+127.0.0.1 y3.com.vn 
+127.0.0.1 www.y3.com.vn 
+127.0.0.1 gamehay.vn 
+127.0.0.1 www.gamehay.vn 
+127.0.0.1 igame.vn 
+127.0.0.1 www.igame.vn 
+127.0.0.1 toandien.net 
+127.0.0.1 www.toandien.net 
+127.0.0.1 bigfun.vn 
+127.0.0.1 www.bigfun.vn 
+127.0.0.1 sun.vn 
+127.0.0.1 www.sun.vn 
+127.0.0.1 sunwin.win 
+127.0.0.1 www.sunwin.win 
+127.0.0.1 go88.vin 
+127.0.0.1 www.go88.vin 
+127.0.0.1 rikvip.app 
+127.0.0.1 www.rikvip.app 
+127.0.0.1 789club.com 
+127.0.0.1 www.789club.com 
+127.0.0.1 hitclub.vip 
+127.0.0.1 www.hitclub.vip 
+127.0.0.1 ku777.net 
+127.0.0.1 www.ku777.net 
+127.0.0.1 nohu.club 
+127.0.0.1 www.nohu.club 
+127.0.0.1 locvip.club 
+127.0.0.1 www.locvip.club 
+127.0.0.1 taigamevui.com 
+127.0.0.1 www.taigamevui.com 
+127.0.0.1 gamevui.com.vn 
+127.0.0.1 www.gamevui.com.vn 
+127.0.0.1 gameonlinehay.net 
+127.0.0.1 www.gameonlinehay.net 
+127.0.0.1 webgamehay.com 
+127.0.0.1 www.webgamehay.com 
+127.0.0.1 shockwave.com 
+127.0.0.1 www.shockwave.com 
+127.0.0.1 neopets.com 
+127.0.0.1 www.neopets.com 
+127.0.0.1 clubpenguin.com 
+127.0.0.1 www.clubpenguin.com 
+127.0.0.1 habbo.com 
+127.0.0.1 www.habbo.com 
+127.0.0.1 runescape.com 
+127.0.0.1 www.runescape.com 
+127.0.0.1 adventurequest.com 
+127.0.0.1 www.adventurequest.com 
+127.0.0.1 gaiaonline.com 
+127.0.0.1 www.gaiaonline.com 
+127.0.0.1 danballpowpows.com 
+127.0.0.1 www.danballpowpows.com 
+127.0.0.1 playstation.com 
+127.0.0.1 www.playstation.com 
+127.0.0.1 xbox.com 
+127.0.0.1 www.xbox.com 
+127.0.0.1 nintendo.com 
+127.0.0.1 www.nintendo.com 
+127.0.0.1 ea.com 
+127.0.0.1 www.ea.com 
+127.0.0.1 onlinegames.io 
+127.0.0.1 www.onlinegames.io 
+127.0.0.1 mcraft.fun 
+127.0.0.1 www.mcraft.fun 
+127.0.0.1 mcraft.net 
+127.0.0.1 www.mcraft.net 
+127.0.0.1 bloxd.io 
+127.0.0.1 www.bloxd.io 
+127.0.0.1 robloxvn.com 
+127.0.0.1 www.robloxvn.com
